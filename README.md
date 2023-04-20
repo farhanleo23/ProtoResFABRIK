@@ -28,7 +28,7 @@ Ensure that you are in 'Scene 1' and you should have 4 assets in the assets fold
 ## View X Bot in the inspector
 
 Select 'X Bot' from the Scene explorer to view its details in the inspector.
-It should look the following image:
+It should look the following image, You need to make changes to the variables in the green box:
 
 <img width="487" alt="Screenshot 2023-04-20 at 12 07 59 PM" src="https://user-images.githubusercontent.com/8142476/233464132-b82f0849-9869-4d0a-85ea-1618cdb0b0f3.png">
 
