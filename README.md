@@ -6,10 +6,14 @@ The ```run.py``` will be used to communicate with our Unity project as it will d
 2. pass input into the ```model.onnx``` file and run an inference
 3. get the output from the model and pass it back to unity.
  
- *Note: You will not see the ```input.json``` and ```output.json``` till you actually run the program in unity*
- 
-<img width="448" alt="Screenshot 2023-04-20 at 11 41 21 AM" src="https://user-images.githubusercontent.com/8142476/233458363-1ec97679-fa65-42dc-99c8-59d52e911471.png">
+<img width="399" alt="Screenshot 2023-04-20 at 12 38 56 PM" src="https://user-images.githubusercontent.com/8142476/233470714-50658348-0984-4131-a1c8-f06068993696.png">
 
+## Install requirements
+
+run the follow command in the ```protoinf``` folder.
+```bash
+pip install -r requirements.txt
+```
 
 ## Open the Unity Project
 Ensure that you are in 'Scene 1' and you should have 4 assets in the assets folder:
