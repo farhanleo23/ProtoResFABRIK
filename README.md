@@ -26,13 +26,23 @@ Ensure that you are in 'Scene 1' and you should have 4 assets in the assets fold
 Select 'X Bot' from the Scene explorer to view its details in the inspector.
 It should look the following image:
 
-For ```Python Script Path```, give the path of the run.py file we have in the ```protoinf``` folder.
+<img width="487" alt="Screenshot 2023-04-20 at 12 07 59 PM" src="https://user-images.githubusercontent.com/8142476/233464132-b82f0849-9869-4d0a-85ea-1618cdb0b0f3.png">
+
+For ```Python Path```, give the path of python on computer. To find this address, run on terminal/command line
+For MAC:
+```bash
+which python
+``` 
+For Windows:
+```bash
+where python
+```
+For ```Run Path```, give the location of the ```run.py``` file we have in the ```protoinf``` folder.
 
 For ```Input Json Path``` and ```Output Json Path``` we need to give the location of where the script should create the output and input files (also in the ```protoinf``` folder).
 
 For ```Model Path```, give the path of the ```model.onnx``` file in the ```protoinf``` folder. 
 
-<img width="485" alt="Screenshot 2023-04-20 at 11 52 12 AM" src="https://user-images.githubusercontent.com/8142476/233460848-840ca367-7335-4f35-92e5-472b39004c2b.png">
 
 ## Run in UNITY
 
