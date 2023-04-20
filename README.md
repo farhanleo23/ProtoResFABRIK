@@ -32,8 +32,7 @@ For ```Input Json Path``` and ```Output Json Path``` we need to give the locatio
 
 For ```Model Path```, give the path of the ```model.onnx``` file in the ```protoinf``` folder. 
 
-<img width="487" alt="Screenshot 2023-04-20 at 11 24 56 AM" src="https://user-images.githubusercontent.com/8142476/233458146-d9300155-35f3-418b-972e-8e5b1730fd57.png">
-
+<img width="485" alt="Screenshot 2023-04-20 at 11 52 12 AM" src="https://user-images.githubusercontent.com/8142476/233460848-840ca367-7335-4f35-92e5-472b39004c2b.png">
 
 ## Run in UNITY
 
